@@ -102,7 +102,14 @@ Game servers will be selected according to the following criteria:
 
 ### 4.1 Hosting
 
-The tournament's home region is Europe. If your preferred region is Europe, then the server must be Atlantis (EU/RU). In other cases it is possible to play on reputable server hosts, such as: Sir Please (US), Bom Bom, Paanchan, UNIFX.
+The tournament's home region is Europe. If your preferred region is Europe, then the server must be Atlantis (EU/RU).
+
+In other cases it is possible to play on reputable server hosts, such as:
+
+* Sir Please (US);
+* Bom Bom;
+* Paanchan;
+* UNIFX.
 
 ### 4.2 Configuration
 
