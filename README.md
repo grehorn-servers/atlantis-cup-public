@@ -4,9 +4,9 @@
 
 ### 1.1 Staff
 
-Director: Grehorn
-Administrator: LioN, General Sibilla
-Cameramen: grizzly_mishka
+* Director: Grehorn
+* Administrator: LioN, General Sibilla
+* Cameramen: grizzly_mishka
 
 ### 1.2 Disputes
 
