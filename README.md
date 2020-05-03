@@ -59,9 +59,28 @@ Once the Swiss Stage is completed, teams will move onto the Single/Double Elimin
 
 #### 2.3 Map pool
 
-Normal Maps: Dead Center, Dark Carnival, Swamp Fever, Hard Rain, The Parish, No Mercy, Death Toll, Dead Air, Blood Harvest.
-Custom Maps: Open Road, Diescraper Redux, Carried Off, Haunted Forest, Suicide Blitz 2, Hard Rain Downpour,  Fatal Freight, Dead Before Dawn DC.
-Finales:  Finales are to be played upon agreements reached by both team captains.
+Finales are to be played upon agreements reached by both team captains.
+
+Normal Maps:
+* Dead Center;
+* Dark Carnival;
+* Swamp Fever;
+* Hard Rain;
+* The Parish;
+* No Mercy;
+* Death Toll;
+* Dead Air;
+* Blood Harvest.
+
+Custom Maps:
+* Open Road;
+* Diescraper Redux;
+* Carried Off;
+* Haunted Forest;
+* Suicide Blitz 2;
+* Hard Rain Downpour;
+* Fatal Freight
+* Dead Before Dawn DC;
 
 ## Section 3: Registration process
 
