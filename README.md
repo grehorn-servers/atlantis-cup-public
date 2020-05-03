@@ -90,7 +90,7 @@ Teams may register via: [https://steamcommunity.com/groups/atlantis-cup/discussi
 
 ### 3.2 Deadline
 
-The deadline for registrations is 20th May 2020 23:00 Hrs (CEST). Late registrations will not be accepted.
+The deadline for registrations is 20th May 2020 23:00 pm (CEST). Late registrations will not be accepted.
 
 ### 3.3 Double registration
 
@@ -136,13 +136,13 @@ It is not acceptable to choose a home server on the basis that it would provide 
 
 ### 5.1 Rounds and scheduling
 
-Pairings and brackets for each round will be posted weekly on Tuesday 11:00 Hrs (CEST).
+Pairings and brackets for each round will be posted weekly on Tuesday 11:00 pm (CEST).
 
 Captains are responsible for agreements made prior to match commencement, such as match date, time and VPN utilisation, etc.
 
 #### 5.1.1 Scheduling deadline
 
-Matches must be scheduled and played before the commencement of the next round, i.e. Tuesday 11:00 Hrs (CEST) week following.
+Matches must be scheduled and played before the commencement of the next round, i.e. Tuesday 11:00 pm (CEST) week following.
 
 Teams are encouraged to negotiate the schedule early; delinquent scheduling will result in a double forfeit.
 
