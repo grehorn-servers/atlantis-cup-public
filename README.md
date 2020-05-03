@@ -90,7 +90,7 @@ Teams may register via: [https://steamcommunity.com/groups/atlantis-cup/discussi
 
 ### 3.2 Deadline
 
-The deadline for registrations is 20th May 2020 23:00 pm (CEST). Late registrations will not be accepted.
+The deadline for registrations is 20th May 2020 11:00 pm (CEST). Late registrations will not be accepted.
 
 ### 3.3 Double registration
 
