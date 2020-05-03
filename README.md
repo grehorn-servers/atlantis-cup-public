@@ -30,7 +30,7 @@ The tournament will consist of two sections.
 
 ### 2.1 Swiss section
 
-The first section will be a Swiss System tournament of <will be known later> rounds. A match win will score 1 point; a tie scores a 0.5 point; a loss or forfeit scores 0 points.
+The first section will be a Swiss System tournament. A match win will score 1 point; a tie scores a 0.5 point; a loss or forfeit scores 0 points.
 After the registration deadline, teams will be seeded based on determined skill level. The first round will then be scheduled pairing teams in accordance to their respective seeds.
 
 In subsequent rounds, teams will be paired against winners vs winners losers vs losers.
