@@ -73,14 +73,15 @@ Normal Maps:
 * Blood Harvest.
 
 Custom Maps:
-* Open Road;
-* Diescraper Redux;
 * Carried Off;
-* Haunted Forest;
-* Suicide Blitz 2;
-* Hard Rain Downpour;
-* Fatal Freight
+* Dark Carnival: Remix;
 * Dead Before Dawn DC;
+* Detour Ahead;
+* Diescraper Redux;
+* Hard Rain Downpour;
+* I Hate Mountains 2;
+* Open Road;
+* Suicide Blitz 2;
 
 ## Section 3: Registration process
 
