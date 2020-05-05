@@ -6,7 +6,7 @@
 
 * Director: Grehorn
 * Administrator: LioN, General Sibilla
-* Cameramen: grizzly_mishka
+* Cameramen: vanille
 
 ### 1.2 Disputes
 
