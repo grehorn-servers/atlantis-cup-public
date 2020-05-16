@@ -6,7 +6,7 @@
 
 * Director: Grehorn
 * Administrator: LioN, General Sibilla
-* Cameramen / Caster: vanille, Sir
+* Cameramen: vanille, Sir
 
 ### 1.2 Disputes
 
