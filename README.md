@@ -1,4 +1,4 @@
-# Atlantis Spring Tournament 2020 Rules
+# Atlantis Zonemod Tournament 2020 Rules
 
 ## Section 1: Tournament administration
 
