@@ -45,7 +45,7 @@ In the event that a round must be paired with an uneven number of participants, 
 
 #### 2.1.3 No-shows
 
-Any team that forfeits three (3) consecutive matches may be automatically dropped from the tournament.
+Any team that forfeits three (2) consecutive matches may be automatically dropped from the tournament.
 
 #### 2.1.4 Deadlines
 
@@ -55,7 +55,7 @@ If teams are unable to schedule their matches within the nominated period, arran
 
 ### 2.2 Playoffs
 
-Once the Swiss Stage is completed, teams will move onto the Single/Double Eliminations playoffs.
+Once the Swiss Stage is completed, teams will move onto the Double Eliminations playoffs.
 
 #### 2.3 Map pool
 
@@ -63,11 +63,8 @@ Finales are to be played upon agreements reached by both team captains.
 
 Normal Maps:
 * Dead Center;
-* Dark Carnival;
 * Swamp Fever;
-* Hard Rain;
 * The Parish;
-* No Mercy;
 * Death Toll;
 * Dead Air;
 * Blood Harvest.
