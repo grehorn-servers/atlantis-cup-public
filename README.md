@@ -45,7 +45,7 @@ In the event that a round must be paired with an uneven number of participants, 
 
 #### 2.1.3 No-shows
 
-Any team that forfeits three (2) consecutive matches may be automatically dropped from the tournament.
+Any team that forfeits two (2) consecutive matches may be automatically dropped from the tournament.
 
 #### 2.1.4 Deadlines
 
@@ -141,13 +141,13 @@ It is not acceptable to choose a home server on the basis that it would provide 
 
 ### 5.1 Rounds and scheduling
 
-Pairings and brackets for each round will be posted weekly on Tuesday 11:00 pm (CEST).
+Pairings and brackets for each round will be posted weekly on Monday.
 
 Captains are responsible for agreements made prior to match commencement, such as match date, time and VPN utilisation, etc.
 
 #### 5.1.1 Scheduling deadline
 
-Matches must be scheduled and played before the commencement of the next round, i.e. Tuesday 11:00 pm (CEST) week following.
+Matches must be scheduled and played before the commencement of the next round, i.e. Monday 11:00 pm (CEST) week following.
 
 Teams are encouraged to negotiate the schedule early; delinquent scheduling will result in a double forfeit.
 
@@ -250,7 +250,7 @@ It is illegal to use the !spectate command excessively or in a way that gains an
 Historically, accepted uses of the spectate command have been:
 
 If the player is out of bounds or has become stuck in an object and cannot  move or attack the survivors
-If a player-controlled SI is not being killed by the survivors in a reasonable time (e.g. instead of killing a spitter/boomer, the survivors are m2ing it for >10 seconds)
+If a player-controlled SI is not being killed by the survivors in a reasonable time (e.g. instead of killing a spitter/boomer, the survivors are m2ing it for >5 seconds)
 If the server crashed at some point during the match and it is necessary to spectate in order to ensure a proper tank rotation
 
 If a player spectates in a way that staff judge to be abusive, a typical penalty will be a zero score for the round.
