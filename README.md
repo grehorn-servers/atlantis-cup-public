@@ -67,7 +67,8 @@ Normal Maps:
 * The Parish;
 * Death Toll;
 * Dead Air;
-* Blood Harvest.
+* Blood Harvest;
+* Passifice;
 
 Custom Maps:
 * Carried Off;
